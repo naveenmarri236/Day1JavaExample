@@ -41,7 +41,9 @@ public class Test {
 	}
 
 	public static void getUserDetails(String name, int age) {
-		System.out.println("Player Name:   " + name);
-		System.out.println("Player Age :   " + age);
+		
+		
+		System.out.println("Player Name  :   " + name);
+		System.out.println("Player Age   :   " + age);
 	}
 }
