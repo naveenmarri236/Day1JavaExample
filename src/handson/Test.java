@@ -1,4 +1,4 @@
-package day5handson;
+package handson;
 
 import java.util.Scanner;
 
