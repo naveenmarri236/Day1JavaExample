@@ -23,7 +23,7 @@ class UserMainCode {
 		}
 		int val=0;
 		for(Integer keys:keySet) {	
-			if(keys>0) {
+			if(keys>val) {
 				val=keys;
 			}
 			

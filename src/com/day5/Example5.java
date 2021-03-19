@@ -2,7 +2,7 @@ package com.day5;
 
 public class Example5 {
 	static void demo() {
-		throw new NullPointerException
+		throw new NullPointerException();
 	}
 
 	public static void main(String[] args) {
